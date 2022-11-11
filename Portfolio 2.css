@@ -116,7 +116,7 @@ body {
     text-align: center;
     color: yellow;
     transition-duration: 2s;
-    margin-top: 2vw;
+    margin-top: 40px;
 }
 .peru1 {
     font-size: 3.5vw;
@@ -126,6 +126,7 @@ body {
     text-align: center;
     color: yellow;
     transition-duration: 2s;
+    margin-top: 0px;
 }
 .peru1:hover {
     color: white;
@@ -136,6 +137,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     color: greenyellow;
+    margin-top: 40px;
 }
 .tech1 {
     font-size: 2vw;
@@ -144,6 +146,7 @@ body {
     vertical-align: middle;
     transition-duration: 2s;
     color: yellowgreen;
+    margin-top: 20px;
 }
 .tech1:hover {
     font-size: 3vw;
